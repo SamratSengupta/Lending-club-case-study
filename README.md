@@ -34,4 +34,7 @@ If one is able to identify these risky loan applicants, then such loans can be r
 
 In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default.  The company can utilise this knowledge for its portfolio and risk assessment. 
 
-The details including codes and EDA techniques are referred in 
+The details including codes and EDA techniques are referred in Lending+Club+Default+Analysis.ipynb and result analysis is given in
+Lending_Club_Case_Study.pdf
+
+
